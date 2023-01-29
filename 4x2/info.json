@@ -1,0 +1,11 @@
+{
+    "manufacturer": "Majin",
+    "keyboard_name": "4x2",
+    "maintainer": "Timception",
+	"url": "https://github.com/4by2timception",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x2019",
+        "vid": "0xEEEE"
+    }    
+}
