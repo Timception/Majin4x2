@@ -6,4 +6,4 @@ An 8 key mechanical keypad with a rotary encoder, VIAL enabled.
 
 * Keyboard Maintainer: [Timception](https://github.com/Timception)
 
-* Images: [Click here](https://instagram.com/keykraft)
+* Images: [Click here](https://instagram.com/majin_keyboards)
